@@ -21,6 +21,11 @@ JavaScript
 
 CSS
 
+🌐 Live Link 
+```
+https://project11-password-generator.netlify.app/
+```
+
 📦 Setup & Run Locally
 ```
 git clone https://github.com/kaushlendra112/Password_Generator.git
