@@ -24,7 +24,7 @@ CSS
 📦 Setup & Run Locally
 ```
 git clone https://github.com/kaushlendra112/Password_Generator.git
-cd password-generator
+cd Password_Generator
 npm install
 npm run dev
 ```
